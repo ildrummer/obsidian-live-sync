@@ -24,7 +24,7 @@
   ![](./screenshots/livesync_setup.PNG)
 
   b. Enter this URI: 
-  `obsidian://setuplivesync?settings=%256ca7bae7ea9652dae9106def0100000061ba8ec4f9937c5c7f7aaf72d19581d77SlcX8VWJsMugVLkRA%2FualuCy9V8MyKLNqxW7zDxMc3TPxa%2BjS13HYnzh%2Fk9I5mMHOOjqQuOZUtvckDmCJ6Vzopt1zgGmCozzOe7urcsfcDE717r0kMcUOj%2Bp%2B91ZNh1J0IU5QE1yAEFhYIxezLNcFZ5UjRyDMK4zdN15kyAm7Z3mI78WbZF7PQIyMxudMVBnEeF%2FXxMVBh129s4Fre82ygOWTuO8tKFWCYeeV8zxyhp53OqivVj7UAhcRWq2X3r3LAdePf1IPykNjpqgzNMpQcOw6adTDZRgS76eNviqyCXJpw3bLSnm2b%2F2SM5nBPNLvfHo5nRbiuLJu7mwQmp%2FDLjP4DcuB%2FAzkYt4IqNIUQjlOZvAvg0yTsPpxhkASFRg5kHVeWg0CaXBdHjPcGnerEE%2B8s8%2Ffzvl2j3vlwunKyHPC1EfEzim8a5Piz0BwfygUsTvYzp4BPxtL5bXoab88mGa2cK%2B856YiXsn%2BDjBrSD1H0wN5JHUhb4Z4QqyFYBXBScQzI3Z3K0UPJmpEjp3zkrrqJ4U8%2F8sYjhP6pxyOOE3RabkMLmTOK1joBzbN4Yj1Db1070f%2BS9C5cqirzR9yplMWizqBTNyFreIbCS7lj4HO6838xQJm5uiujAnEEvFEKREkaFkDB8zSOMIL1ywLSNtGFg7Fz91CHmKZtIEnahi2IJxG7f8fdasm118pyS%2Bh19heEgmDWPrOUw`
+  `obsidian://setuplivesync?settings=%25b857036367dd89a30c783b0701000000067d4cf2a9ba25a3c51caded56313b88QzCArEFSiwB1djy4TNgP4DlET6EZ63FhE8BPNRnXJGNn49pk%2FXzIXShzjSI%2BNKJDRHjtWL5KAYxEQh2N0O0pQcvBJxfmtlNPWi2qLoKhAQztLklx3vKPsSrthzbdlwyHL%2FNJnKGcirqd9XHvW%2FcEZI91w3%2Fy09cbR7NCRByk2h9EEPJttqzggWqhtr2b3NswJ9jB3VPGPG5TStNewmLiQN1E9ERbzx0KBCwHVd%2BfGbIlkwoZZ6nftpm%2Bl73xVdYgPKkRCjiq0ghOzT2pj9qlqalWdPl%2BoPdwf7iBwYdfTELYgxXVC3VoC%2BxdOD1d6uisdcNelQdDmsgU1QaYMU3RP0R5vFNF38N5t5mB%2FoUVJcsRg7UUPFoRHLF2QrhlrZxC442zHzJKEmmDYaeF2ywaTRgRURSaAJDz98rlEcy9zW5e1gZg7CU0jx6F11STshJUFKm7SHCIS6zONBrDgQBobEUjJMPahVbqAiYMJSDlLf0gXeal1WBXM3WmWej5rGVMNC8k51W32P8wJM4hrguiDHxuJ%2FTrLrB%2B43wXdlkRjzuRJ19tIdfnVr%2BY3WOl2Q1GVLVbTZAZrrnXNijmu5LHoGxDmBaFhaL9dT0N9019m1LHigadHPiEQsO5HYbqQc%2BwPFSAvdJ%2Bbigf4jrJ57zBH9Tx80o0fGVs7aiDrSU%2BwdtkdamEaRfiPoiaeCRV2F%2BrFrvUZNepNw%3D%3D`
   ![](./screenshots/livesync_uri.PNG)
 
   c. Enter the passphrase shared in WhatsApp
@@ -35,7 +35,13 @@
   This should process for ~30 seconds.
 
   e. Reject additional features.
-  
-7. Configuration complete.  Look for a few pages to sync to your device.
+
+7. If the LiveSync plugin setup failed, disable it then re-enable and retry the configuration steps. 
+
+---
+
+Configuration complete.  Look for a few pages to sync to your device.
+
+
 
   
